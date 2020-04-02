@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-read-write-files-boilerplate",
+  "version": "1.0.0",
+  "description": "terminal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jensengbg-Marijune-Lejsund/nodejs-read-write-files-boilerplate.git"
+  },
+  "author": "mj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jensengbg-Marijune-Lejsund/nodejs-read-write-files-boilerplate/issues"
+  },
+  "homepage": "https://github.com/jensengbg-Marijune-Lejsund/nodejs-read-write-files-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
